@@ -1,8 +1,10 @@
-# ReviewInsightX-AI-Assisted-App-Review-Summarization-and-Strategic-Feedback-Extraction
-
 # 🧠📱 ReviewInsightX: AI-Assisted App Review Summarization & Strategic Feedback Extraction
 
 **ReviewInsightX** is an AI-powered tool that collects, processes, and analyzes mobile app user reviews from the **Google Play Store**, turning raw qualitative feedback into actionable product insights and strategic recommendations. The output is saved as both **text** and **PDF** files, making it easy to share or present findings with stakeholders.
+
+## ReviewInsightX: AI-Assisted App Review Summarization & Strategic Feedback Extraction Introduction Demo Video
+
+https://github.com/user-attachments/assets/6008d07f-849a-4b43-8776-b11b23233aca
 
 ---
 
@@ -23,6 +25,11 @@
 * 🧪 User Researchers
 * 📊 Data Analysts
 * 🎓 Educators teaching NLP or product strategy
+
+---
+## ReviewInsightX: AI-Assisted App Review Summarization & Strategic Feedback Extraction Google Colab Screenshot
+
+![Alt text](https://github.com/ctntrk/ReviewInsightX-AI-Assisted-App-Review-Summarization-and-Strategic-Feedback-Extraction/blob/main/ReviewInsightX_AI_Assisted_User_Review_Summarization_and_Strategic_Feedback_Extraction_Google_Colab_Screenshot.png)
 
 ---
 
